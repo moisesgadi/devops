@@ -1,0 +1,1 @@
+Criando um git independente para cada projeto devops
